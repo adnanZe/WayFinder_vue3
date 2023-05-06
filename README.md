@@ -16,6 +16,7 @@
 - ESLint - A tool for identifying and reporting on patterns found in JavaScript code
 - Prettier - A code formatter
 - TypeScript - A typed superset of JavaScript
+- BootstrapVue - A library for design UI
 
 ### Available Scripts
 
